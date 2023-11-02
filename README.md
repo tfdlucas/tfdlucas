@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Lucas de Paula
-- 👩‍💻 Hoje trabalho com vendas na loja Entrance
+- 👩‍💻 Hoje trabalho com vendas.
 - 🎓 Estudando Javascript e Typescript
 
 <div align="center">
